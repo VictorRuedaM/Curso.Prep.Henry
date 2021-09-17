@@ -1,0 +1,22 @@
+** Variables = Las variables son un contenedor, donde podemos guardar cosas. Como si de una caja
+estuviéramos hablando, en ellas almacenamos cosas de diferentes materiales, 
+tamaños y formas. Lo mismo podemos hacer en una variable pues podemos almacenar números, palabras,
+letras, condiciones.
+
+** Strings = Es un conjunto de caracteres en cadena o mejor decirlo letras que pueden formar una palabra,
+una frase y están siempre almacenadas dentro de comillas simples o dobles. 
+
+** Funciones (argumentos, return) = Una función es una parte del código que ejecuta una determinada tarea,
+para la cual pude recibir argumentos que le son suministrados al momento de llamarla para que se ejecute. Estos argumentos son procesados dentro de la función y al final el resultado de toda la operación es devuelto con un return.
+
+** Declaraciones if = Los If o condicionales se pueden asemejar a un automóvil que va en una carretera
+con destino a la playa y al llegar a una intercesión la carretera se divide en dos. Un camino (A) que
+llevara a la playa y otro camino (B) que llevara a un bosque, como el destino del automóvil es la
+playa tomara el camino (A) y no el (B) pues este no cumple la condición que requiere, pues no lo
+llevara a su destino.
+
+** Valores booleanos (true, false) = Un valor booleano lo podemos comparar con una cesta de manzanas
+todas de un mismo color las cuales solo podrán ser rojas o verdes. Un valor booleano true (verdadero)
+lo podemos asemejar a un sí, un positivo o un afirmativo y un valor booleano false (falso) lo podemos
+asemejar a un no, negativo. Un booleano solo podrá ser true o false así como la cesta solo podrá
+contener manzanas de un único color rojas o verdes.
