@@ -7,7 +7,8 @@ letras, condiciones.
 una frase y están siempre almacenadas dentro de comillas simples o dobles. 
 
 ** Funciones (argumentos, return) = Una función es una parte del código que ejecuta una determinada tarea,
-para la cual pude recibir argumentos que le son suministrados al momento de llamarla para que se ejecute. Estos argumentos son procesados dentro de la función y al final el resultado de toda la operación es devuelto con un return.
+para la cual pude recibir argumentos que le son suministrados al momento de llamarla para que se ejecute. Estos argumentos
+son procesados dentro de la función y al final el resultado de toda la operación es devuelto con un return.
 
 ** Declaraciones if = Los If o condicionales se pueden asemejar a un automóvil que va en una carretera
 con destino a la playa y al llegar a una intercesión la carretera se divide en dos. Un camino (A) que
