@@ -1,0 +1,3 @@
+** Arrays = Un array es una colección o lista ordenada de datos, que se identifican con un índice 
+a partir del número 0. Los arrays (matrices) se emplean para almacenar múltiples valores en 
+una sola variable, a diferencia de una variable normal que sólo puede almacenar un valor. 
