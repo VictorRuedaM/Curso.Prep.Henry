@@ -1,0 +1,12 @@
+
+** For = Un bucle for nos permite repetir un determinado fragmento de código muchas veces y así evitamos 
+el tener que reescribir código, otra ventaja que el bucle for ofrece es la posibilidad de determinar de
+antemano las veces que queremos que se repita el código en su interior.
+
+** && = El operador lógico && (AND) nos permite comparar valores y devolverá true (verdadero) si la condición 
+es correcta en ambos valores, de lo contrario devolverá false (falso).
+
+** || = El operador lógico || (OR) nos permite comparar valores, pero a diferencia de && (AND) devolverá 
+true (verdadero) si la condición es correcta en uno o ambos valores, de lo contrario devolverá false (falso).
+
+** ! = El operador lógico ! (NOT) solo opera en un valor y retorna el valor contrario de este mismo.
