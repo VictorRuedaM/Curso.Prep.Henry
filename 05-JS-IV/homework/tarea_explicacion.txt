@@ -1,0 +1,17 @@
+** Objetos = Un objeto es una colección de datos relacionados que puede tener variables y funciones, 
+que se denominan propiedades y métodos. 
+
+** Propiedades = Una propiedad es como una variable al interior del objecto, es una asociación entre 
+una (clave) y un (valor). Las propiedades definen las características del objecto.
+
+** Métodos = Un método es una función al interior de un objecto y que pertenece al mismo y al momento 
+de instanciar el objecto se puede hacer uso del metodo.
+
+** Bucle for…in = El bucle for in permite recorrer todas las propiedades enumerables de un objeto, y 
+acceder a sus valores de forma sencilla.
+
+** Notación de puntos vs notación de corchetes = Con la notación de punto puedo acceder a la propiedad 
+de un objecto de forma sencilla y directa utilizando el nombre del objecto seguido por un punto y 
+el nombre de la clave (obj.clave) y con la notación de corchete, accedo bien sea escribiendo el nombre 
+o clave de la propiedad entre comillas y entre los corchetes o una variable que contenga dicho nombre 
+en su interior (obj[‘clave’] ) / (obj[nombre variable])
